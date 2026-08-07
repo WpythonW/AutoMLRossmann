@@ -6,6 +6,7 @@
 [![LightGBM](https://img.shields.io/badge/LightGBM-Feature%20Based-4E8CBE)](https://github.com/microsoft/LightGBM)
 [![LightAutoML](https://img.shields.io/badge/LightAutoML-Baseline-6B7A8F)](https://github.com/AILab-MLTools/LightAutoML)
 [![Optuna](https://img.shields.io/badge/Optuna-HPO-E6A817)](https://optuna.org)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
 
@@ -100,3 +101,7 @@ Then run `Rossman full research.ipynb` end-to-end (EDA, baselines, feature engin
 ## Acknowledgements
 
 Dataset: Kaggle Rossmann Store Sales. Baseline framework: LightAutoML. Metrics and leaderboard evaluation follow the competition's RMSPE definition.
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
